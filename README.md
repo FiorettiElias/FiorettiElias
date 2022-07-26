@@ -12,6 +12,7 @@
     </div>
     
 ## 📬 Get in touch
+https://img.shields.io/twitter/follow/eliasfioretti_?logo=Twitter&style=for-the-badge
 
 - LinkedIn: [linkedin.com/in/eliasfioretti](https://www.linkedin.com/in/elias-fioretti-8ab679237/)
 - Instagram: [instagram.com/eliasfioretti_](https://www.instagram.com/eliasfioretti_)
