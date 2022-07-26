@@ -1,9 +1,17 @@
+![natterstefan](https://res.cloudinary.com/dxgwcpdom/image/upload/v1623223350/GitHub/fm_y6xlzk.png)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=fernandomireles&color=2685BF)
+
 ### Hi there 👋
 
-<!--
-**FiorettiElias/FiorettiElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Argentine programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
 
-Here are some ideas to get you started:
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/eliasfioretti](https://www.linkedin.com/in/eliasfioretti/)
+- Instagram: [instagram.com/eliasfioretti_](https://www.instagram.com/eliasfioretti_)
+- Twitter: [twitter.com/eliasfioretti_](https://www.facebook.com/eliasfioretti_)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
