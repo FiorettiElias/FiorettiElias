@@ -14,7 +14,7 @@
 ## 📬 Get in touch
 
 <div id="badges" align="center">
-<a href "https://twitter.com/eliasfioretti_" target="_blank">
+<a href "https://twitter.com/eliasfioretti_"
 <img src="https://img.shields.io/twitter/follow/eliasfioretti_?logo=Twitter&style=for-the-badge"
  alt="Twitter Badge" />
 </a>
