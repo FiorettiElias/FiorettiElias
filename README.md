@@ -12,7 +12,13 @@
     </div>
     
 ## 📬 Get in touch
-https://img.shields.io/twitter/follow/eliasfioretti_?logo=Twitter&style=for-the-badge
+
+<div id="badges" align="center">
+<a href "https://twitter.com/eliasfioretti_" target="_blank">
+<img src="https://img.shields.io/twitter/follow/eliasfioretti_?logo=Twitter&style=for-the-badge"
+ alt="Twitter Badge" />
+</a>
+</div>
 
 - LinkedIn: [linkedin.com/in/eliasfioretti](https://www.linkedin.com/in/elias-fioretti-8ab679237/)
 - Instagram: [instagram.com/eliasfioretti_](https://www.instagram.com/eliasfioretti_)
