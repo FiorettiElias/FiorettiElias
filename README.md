@@ -8,7 +8,6 @@
     <img src="https://media.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I´m YouDevs</h1>
     <h3 align="center">I am a Argentine programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
-        
     </h3>
     </div>
     
